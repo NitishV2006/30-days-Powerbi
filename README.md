@@ -7,10 +7,11 @@ The goal is to provide hospital executives with clear insights into:
 - Financial performance
 
 **Live Project (30-Day Challenge)** – Daily updates on progress!
-### Day 1 (Jan 4, 2026)
+
+# Healthcare Analytics Dashboard (Power BI) 🏥📊
+## Day 1 (Jan 4, 2026)
 - Data cleaning in Power Query
 - Added Length of Stay & Age Group columns
-# Healthcare Analytics Dashboard (Power BI) 🏥📊
 ## Day 2 Progress (January 05, 2026) ✅
 ### Achievements
 - Created a dedicated **Calendar table** with Year, Month, Quarter columns
