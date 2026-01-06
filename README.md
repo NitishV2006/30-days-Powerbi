@@ -25,7 +25,13 @@ The goal is to provide hospital executives with clear insights into:
 - Used **DATESMTD** function for latest month calculations
 - Fixed data type issues (Length of Stay now numeric)
 - Clean layout with professional formatting
-
+### Day 3 (Jan 6, 2026)
+- Built Patient Demographics page
+- Age Group bar chart
+- Gender & Blood Type donut charts
+- Top Medical Conditions horizontal bar
+- Condition by Gender analysis
+- Added slicers for interactivity
 ### Key Learnings
 - Importance of proper date table for time intelligence
 - How to display latest period values with historical trends
