@@ -25,13 +25,7 @@ The goal is to provide hospital executives with clear insights into:
 - Used **DATESMTD** function for latest month calculations
 - Fixed data type issues (Length of Stay now numeric)
 - Clean layout with professional formatting
-### Day 3 (Jan 6, 2026)
-- Built Patient Demographics page
-- Age Group bar chart
-- Gender & Blood Type donut charts
-- Top Medical Conditions horizontal bar
-- Condition by Gender analysis
-- Added slicers for interactivity
+
 ### Key Learnings
 - Importance of proper date table for time intelligence
 - How to display latest period values with historical trends
@@ -45,7 +39,20 @@ The goal is to provide hospital executives with clear insights into:
 - Power Query (data cleaning & transformations)
 - DAX (measures, time intelligence with DATESMTD)
 - KPI visuals with trend axis
-
+### Day 3 (Jan 6, 2026)
+- Built Patient Demographics page
+- Age Group bar chart
+- Gender & Blood Type donut charts
+- Top Medical Conditions horizontal bar
+- Condition by Gender analysis
+- Added slicers for interactivity
+### Day 4 (Jan 7, 2026)
+- Built Financial Analysis page
+- Revenue by Medical Condition & Insurance Provider
+- Average Billing by Admission Type
+- Monthly Revenue Trend line chart
+- Top 10 high-cost patients table
+- Interactive slicers
 ## Dataset
 - Source: Kaggle – [Healthcare Dataset by prasad22](https://www.kaggle.com/datasets/prasad22/healthcare-dataset)
 - 55,500+ records with patient demographics, admissions, billing, conditions
